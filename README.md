@@ -19,7 +19,7 @@ Gets Pods names and other stuff
 
 ## Install
 
-Install [Java 11+](https://adoptopenjdk.net/installation.html) and [jbang](https://jbang.dev/download) and then:
+Install [jbang](https://jbang.dev/download) and then:
 
 ```bash
 # Note: the .java extension must be omitted in order to make kubectl able to recognize the plugin
